@@ -1,0 +1,67 @@
+{
+  "078": {
+    "customer_name": "Bob",
+    "items": [
+      {
+        "item_name": "crispy-chicken-shnack-wrap",
+        "quantity": 2,
+        "price": 6.0
+      },
+      {
+        "item_name": "curly-fryz",
+        "size": "L",
+        "quantity": 1,
+        "price": 2.99
+      },
+      {
+        "item_name": "regular-drink",
+        "quantity": 1,
+        "price": 1.19
+      }
+    ],
+    "total_price": 10.18,
+    "order_status": "completed"
+  },
+  "079": {
+    "customer_name": "Jane",
+    "items": [
+      {
+        "item_name": "classic-sampler",
+        "quantity": 1,
+        "sampler_items": [
+          "mac-n-cheese-bites",
+          "mozarella-sticks",
+          "boneless-bitez"
+        ],
+        "price": 6.0
+      }
+    ],
+    "total_price": 6.0,
+    "order_status": "active"
+  },
+  "080": {
+    "customer_name": "Kelly",
+    "items": [
+      {
+        "item_name": "fryz",
+        "size": "M",
+        "quantity": 1,
+        "extraz": ["ketchup"],
+        "price": 2.69
+      },
+      {
+        "item_name": "mto-hot-dog",
+        "quantity": 2,
+        "extraz": ["onion", "relish"],
+        "price": 2.0
+      },
+      {
+        "item_name": "regular-drink",
+        "quantity": 1,
+        "price": 1.19
+      }
+    ],
+    "total_price": 5.88,
+    "order_status": "completed"
+  }
+}
