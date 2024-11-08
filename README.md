@@ -4,31 +4,32 @@ This training module is owned by SecurityJourney and is designed to provide deve
 
 ## Overview
 
-In this training, you will learn the basics of Python programming language and how to write secure code. We will cover topics such as input validation, secure file handling, secure authentication, and more. By the end of this training, you will have the knowledge and skills to develop robust and secure Python applications.
+In this training, you will learn the basics of Python programming language and how to write secure code. By the end of this training, you will have the knowledge and skills to develop robust and secure Python applications.
 
 ## Prerequisites
 
-To get the most out of this training, it is recommended that you have a basic understanding of programming concepts and some experience with Python. Familiarity with secure coding practices is also beneficial but not required.
+You will need to install:
+
+1. The latest version of Python 3.
+2. Spyder IDE
+3. Git
+4. Chome or Firefox (To run Jupyter Lab)
 
 ## Contents
 
 This training module consists of the following sections:
 
 1. Introduction to Python
-2. Python Syntax and Data Types
-3. Control Flow and Loops
-4. Functions and Modules
-5. Input Validation
-6. Secure File Handling
-7. Secure Authentication
-8. Best Practices for Secure Python Development
+2. Debugging and Error Handling in Spyder
+3. Automating File and System Operations
+4. Processing Data with Python
+5. Automating API Interactions
+6. Best Practices for Secure Python Scripting
+7. Capstone Project
 
 ## Getting Started
 
-To begin the training, clone the repository and navigate to the `secure-python-training` directory. From there, follow the instructions in the README file to set up your development environment and start learning.
+To begin the training, clone the repository and navigate to the `secure-python-training` directory.
 
-## Feedback and Support
-
-If you have any questions or need assistance during the training, please don't hesitate to reach out to our support team. We are here to help you succeed.
-
-Happy coding and stay secure!
+From there, navigate to https://jupyter.org/try-jupyter/lab/
+Click the "Upload" button to open the first Jupyter Notebooks file.
